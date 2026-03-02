@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Honeymoon Avenue",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2026-03-02T10:21:55.009214Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Honeymoon Avenue",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/01_Honeymoon_Avenue_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Honeymoon Avenue",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/02_Honeymoon_Avenue_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Honeymoon Avenue",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/03_Honeymoon_Avenue_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Honeymoon Avenue (Live from London)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/04_Honeymoon_Avenue_(Live_from_London)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Honeymoon Avenue (Live from London)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/05_Honeymoon_Avenue_(Live_from_London)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Honeymoon Avenue",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/06_Honeymoon_Avenue_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Honeymoon Avenue",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/07_Honeymoon_Avenue_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Honeymoon Avenue",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/08_Honeymoon_Avenue_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Honeymoon Avenue (live from London)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/09_Honeymoon_Avenue_(live_from_London)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "honeymoon avenue",
+      "artist": "kasper",
+      "has_synced": true,
+      "path": "select/10_honeymoon_avenue_kasper.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Honeymoon Avenue",
+      "artist": "Grande, Ariana",
+      "has_synced": true,
+      "path": "select/11_Honeymoon_Avenue_Grande,_Ariana.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ariana Grande - Honeymoon Avenue (Lyrics)",
+      "artist": "LyricsZone",
+      "has_synced": true,
+      "path": "select/12_Ariana_Grande_-_Honeymoon_Avenue_(Lyrics)_LyricsZone.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Honeymoon Avenue",
+      "artist": "David So",
+      "has_synced": true,
+      "path": "select/13_Honeymoon_Avenue_David_So.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Honeymoon Avenue (Audio from video)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/14_Honeymoon_Avenue_(Audio_from_video)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Honeymoon Avenue",
+      "artist": "Ariana Grande - Topic",
+      "has_synced": true,
+      "path": "select/15_Honeymoon_Avenue_Ariana_Grande_-_Topic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Honeymoon Avenue",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/pl_01_Honeymoon_Avenue_Ariana_Grande.txt"
+    }
+  ]
+}
